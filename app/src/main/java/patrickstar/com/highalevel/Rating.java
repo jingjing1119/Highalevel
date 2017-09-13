@@ -10,7 +10,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.RatingBar;
 import android.widget.Toast;
-
+//wewww
 public class Rating extends AppCompatActivity {
     private RatingBar ratingBar;
 
